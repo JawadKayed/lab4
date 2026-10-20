@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+  <title id="title">Creative coding workshop</title>
+  <desc id="desc">A laptop with playful geometric artwork on its screen.</desc>
+  <rect width="720" height="405" fill="#DDE7DF"/>
+  <circle cx="570" cy="92" r="38" fill="#F1C879"/>
+  <rect x="139" y="77" width="442" height="251" rx="16" fill="#202824"/>
+  <rect x="158" y="96" width="404" height="211" rx="6" fill="#F8F6EF"/>
+  <path d="M190 251c36-102 79-118 119-40s70 67 104-17 71-70 122 15v98H190Z" fill="#8AAB8D"/>
+  <path d="M193 270c50-55 84-20 127-51s79 24 118-11 65-29 97 8v91H193Z" fill="#245C4F"/>
+  <circle cx="268" cy="157" r="28" fill="#F1C879"/>
+  <path d="M414 141h56v56h-56z" fill="#C8835F" transform="rotate(15 442 169)"/>
+  <path d="m119 331 47-35h388l47 35c5 4 2 11-5 11H124c-7 0-10-7-5-11Z" fill="#557963"/>
+  <rect x="319" y="316" width="82" height="7" rx="3.5" fill="#DDE7DF"/>
+</svg>

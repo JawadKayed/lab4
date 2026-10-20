@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+  <title id="title">Photography workshop</title>
+  <desc id="desc">A green camera in front of a golden sun and rolling hills.</desc>
+  <rect width="720" height="405" fill="#EADDBB"/>
+  <circle cx="535" cy="116" r="66" fill="#F1C879"/>
+  <path d="M0 285 170 174l148 111 126-95 276 195H0Z" fill="#8AAB8D"/>
+  <path d="M0 329 201 240l170 94 139-86 210 124H0Z" fill="#557963"/>
+  <rect x="204" y="211" width="312" height="136" rx="22" fill="#245C4F"/>
+  <path d="M266 211 291 177h86l24 34" fill="#245C4F"/>
+  <circle cx="360" cy="279" r="56" fill="#F8F6EF"/>
+  <circle cx="360" cy="279" r="40" fill="#91A88E"/>
+  <circle cx="360" cy="279" r="26" fill="#245C4F"/>
+  <circle cx="454" cy="239" r="9" fill="#F1C879"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+  <title id="title">Digital illustration workshop</title>
+  <desc id="desc">A bright green potted plant with a stylus and drawing tablet.</desc>
+  <rect width="720" height="405" fill="#E8E9D9"/>
+  <rect x="108" y="64" width="504" height="277" rx="18" fill="#245C4F"/>
+  <rect x="126" y="82" width="468" height="241" rx="8" fill="#F8F6EF"/>
+  <path d="M343 266c-2-68 1-117 2-153" fill="none" stroke="#557963" stroke-width="12" stroke-linecap="round"/>
+  <path d="M344 172c-62-4-92-34-85-76 46 5 77 27 85 76Z" fill="#8AAB8D"/>
+  <path d="M349 146c8-49 40-72 83-67-2 43-31 71-83 67Z" fill="#557963"/>
+  <path d="M346 218c-54 5-82-12-88-51 43-7 74 11 88 51Z" fill="#C8835F"/>
+  <path d="M349 197c10-45 37-62 75-55-7 36-30 55-75 55Z" fill="#F1C879"/>
+  <path d="M294 264h105l-15 43h-75Z" fill="#C8835F"/>
+  <path d="m504 120 17 8-82 164-16 11 2-20Z" fill="#F1C879"/>
+  <path d="m439 292-16 11 2-20Z" fill="#245C4F"/>
+  <circle cx="201" cy="133" r="12" fill="#F1C879"/>
+  <circle cx="485" cy="249" r="10" fill="#C8835F"/>
+</svg>
