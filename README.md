@@ -4,7 +4,11 @@ A responsive, single-page directory for creative workshops. The site uses semant
 
 ## View the site
 
-Open `index.html` in a browser. The workshop artwork is stored locally in `assets/` and the stylesheet is `css/style.css`.
+Live website: [CCT360 Creative Hub](https://jawadkayed.github.io/lab4/).
+
+GitHub repository: [JawadKayed/lab4](https://github.com/JawadKayed/lab4).
+
+To view it locally, open `index.html` in a browser. The workshop artwork is stored locally in `assets/` and the stylesheet is `css/style.css`.
 
 ## Layout and rubric notes
 
@@ -28,8 +32,6 @@ Open `index.html` in a browser. The workshop artwork is stored locally in `asset
 | H3 | `24px` | Workshop headings |
 | Spacing | `24px` | Shared section and grid gap |
 
-## Figma wireframes: PENDING
+## Figma wireframes
 
-The actual Figma deliverable has not been created. Add the Figma file URL here when the wireframes are ready: **[PENDING: Figma link]**.
-
-The Figma work still needs separate desktop and mobile frames (1440px and 390px), made without Auto Layout. The desktop frame should show a 12-column grid with 24px gutters and 80px margins. Include primary and secondary colour swatches and H1, H2, H3, and Body typography documentation. This website, its SVGs, screenshots, and this README do not fulfill that Figma requirement.
+[Open the CCT360 Creative Hub Figma design](https://www.figma.com/design/2z37TCWL15WpBU33RGT4Al/Untitled?node-id=0-1&t=geaehPktHexbs3Yz-1), containing desktop and mobile wireframes and design tokens.
